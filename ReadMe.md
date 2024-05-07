@@ -48,14 +48,6 @@ Just a Junior Software Engineer...
           </div>
         </td>
       </tr>
-      <tr>
-        <td colspan="2" style="background-color: transparent;">
-          <div class="stat-section">
-            <h3>Contribution Streak</h3>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=farout101&theme=dark&hide_border=true" alt="Contribution Streak">
-          </div>
-        </td>
-      </tr>
     </table>
   </div>
 </div>
