@@ -51,6 +51,12 @@ Just a Junior Software Engineer...
 </div>
 
 
-# Top Contributed Repositories:
-- Top Repositories:
-  ![](https://github-contributor-stats.vercel.app/api?username=farout101&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div id="top-contributed-repositories">
+  <h2>Top Contributed Repositories:</h2>
+  
+  <div class="top-repositories">
+    <h3>Top Repositories:</h3>
+    <img src="https://github-contributor-stats.vercel.app/api?username=farout101&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repositories">
+  </div>
+</div>
+
