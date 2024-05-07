@@ -43,12 +43,15 @@ Just a Junior Software Engineer...
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
       </div>
     </div>
-    <div class="stat-section">
-      <h3>Contribution Streak:</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=farout101&theme=dark&hide_border=true" alt="Contribution Streak">
+    <div class="row">
+      <div class="stat-section">
+        <h3>Contribution Streak:</h3>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=farout101&theme=dark&hide_border=true" alt="Contribution Streak">
+      </div>
     </div>
   </div>
 </div>
+
 
 
 <div id="top-contributed-repositories">
