@@ -33,22 +33,22 @@ Just a Junior Software Engineer...
 <div id="github-stats">
   <h2>GitHub Stats:</h2>
   <div class="stats-container">
-    <div class="stat-section">
-      <h3>Overview:</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Overview">
+    <div class="row">
+      <div class="stat-section">
+        <h3>Overview:</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Overview">
+      </div>
+      <div class="stat-section">
+        <h3>Top Languages:</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+      </div>
     </div>
     <div class="stat-section">
       <h3>Contribution Streak:</h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=farout101&theme=dark&hide_border=true" alt="Contribution Streak">
     </div>
-    <div class="stat-section">
-      <h3>Top Languages:</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-    </div>
   </div>
 </div>
-
-
 
 <div id="top-contributed-repositories">
   <h2>Top Contributed Repositories:</h2>
