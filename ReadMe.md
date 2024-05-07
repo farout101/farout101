@@ -37,13 +37,13 @@ Just a Junior Software Engineer...
       <tr>
         <td>
           <div class="stat-section">
-            <h3>Overview:</h3>
+            <h3>Overview</h3>
             <img src="https://github-readme-stats.vercel.app/api?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Overview">
           </div>
         </td>
         <td>
           <div class="stat-section">
-            <h3>Top Languages:</h3>
+            <h3>Top Languages</h3>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
           </div>
         </td>
@@ -51,7 +51,7 @@ Just a Junior Software Engineer...
       <tr>
         <td colspan="2" style="background-color: transparent;">
           <div class="stat-section">
-            <h3>Contribution Streak:</h3>
+            <h3>Contribution Streak</h3>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=farout101&theme=dark&hide_border=true" alt="Contribution Streak">
           </div>
         </td>
@@ -62,5 +62,5 @@ Just a Junior Software Engineer...
 
 
 # Top Contributed Repositories:
-- Top Repositories:
-.  ![](https://github-contributor-stats.vercel.app/api?username=farout101&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Top Repositories----------
+  ![](https://github-contributor-stats.vercel.app/api?username=farout101&limit=5&theme=dark&combine_all_yearly_contributions=true)
