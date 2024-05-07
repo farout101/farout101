@@ -30,13 +30,24 @@ Just a Junior Software Engineer...
 - Data Science & AI:
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-# GitHub Stats:
-- Overview:
-  ![](https://github-readme-stats.vercel.app/api?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-- Contribution Streak:
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=farout101&theme=dark&hide_border=true)
-- Top Languages:
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div id="github-stats">
+  <h2>GitHub Stats:</h2>
+  
+  <div class="overview">
+    <h3>Overview:</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Overview">
+  </div>
+  
+  <div class="contribution-streak">
+    <h3>Contribution Streak:</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farout101&theme=dark&hide_border=true" alt="Contribution Streak">
+  </div>
+  
+  <div class="top-languages">
+    <h3>Top Languages:</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farout101&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  </div>
+</div>
 
 # Top Contributed Repositories:
 - Top Repositories:
