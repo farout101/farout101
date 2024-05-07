@@ -62,5 +62,4 @@ Just a Junior Software Engineer...
 
 
 # Top Contributed Repositories:
-- Top Repositories----------
   ![](https://github-contributor-stats.vercel.app/api?username=farout101&limit=5&theme=dark&combine_all_yearly_contributions=true)
