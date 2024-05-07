@@ -1,4 +1,3 @@
-# 💫 About Me:
 Just a Junior Software Engineer...
 
 
