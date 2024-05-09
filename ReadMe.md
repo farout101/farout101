@@ -1,12 +1,12 @@
-# About Me:
+# About Me
 Just a Junior Software Engineer...
 
-# Socials:
+# Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FDTtwTj9) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phyo.zawlinn.359?mibextid=LQQJ4d) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creamy_b0ba)
 
-# Tech Stack:
+# Tech Stack
 - Languages:
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,7 +31,7 @@ Just a Junior Software Engineer...
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 <div id="github-stats">
-  <h2>GitHub Stats:</h2>
+  <h2>GitHub Stats</h2>
   <div class="stats-container">
     <table style="border-collapse: collapse;">
       <tr>
@@ -53,5 +53,5 @@ Just a Junior Software Engineer...
 </div>
 
 
-# Top Contributed Repositories:
+# Top Contributed Repositories
   ![](https://github-contributor-stats.vercel.app/api?username=farout101&limit=5&theme=dark&combine_all_yearly_contributions=true)
