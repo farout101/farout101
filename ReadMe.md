@@ -1,5 +1,5 @@
 # About Me
-A Software Enginner | Cloud Learner | Backend Developer | Tech Enthusiast
+A Software Enginner | Backend Developer | Cloud Learner | Tech Enthusiast
 
 # Tech Stack
 - **Languages**: _C, C++, C#, Java, Python, JavaScript_
