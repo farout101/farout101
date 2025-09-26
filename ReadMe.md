@@ -2,7 +2,7 @@
 A Software Enginner | Backend Developer | Cloud Learner | Tech Enthusiast
 
 # Tech Stack
-- **Languages**: _C, C++, C#, Java, Python, JavaScript_
+- **Languages**: _C, C++, Java, Python, JavaScript_
 - **Frameworks and Libraries**: _SpringBoot, Django, FastAPI, Express.js, React_
 - **Databases**: _MongoDB, MySQL, Postgres, Redis, Hibernate_
 - **Tools & Platforms**: _ApacheKafka, Arduino, RaspberryPi, RabbitMQ_
